@@ -6,6 +6,10 @@ Python script that iterates over a list to add foodtrucks to a map of Dallas cou
 ### About
 This script reads Lat, Long coordinates from a text file and then projects them as point features into Arc Map and buffers 1 mile around them. A base map with street view of Dallas county is provided.
 
+### Requirements
+1. ArcGIS 10.1 or newer
+2. Python 2.7
+
 ### Instructions
 
 1. Clone to desktop
